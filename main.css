@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.school2{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(213, 213, 215);
+  }
+  .one5{
+    width:40vw;
+    height: 90vh;
+    background-color: white;
+   padding-left: 10px;
+   padding-right: 10px;
+  }
+  .two5{
+    width: 35vw;
+    height: 90vh;
+    background-color:brown ;
+    background-image: url(image/female-437990_640.jpg);background-size: cover;
+  }
+  .ballet{
+    display: flex;
+    justify-content: space-around;
+  }
+  .balletschool{
+    font-size: 50px;
+    font-style: oblique;
+    margin-left:30%;
+    margin-top: 10%;
+    color: red;
+  }
